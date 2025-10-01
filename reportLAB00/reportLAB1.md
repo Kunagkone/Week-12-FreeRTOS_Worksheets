@@ -8,3 +8,16 @@
 ข้อดีของ Multitasking System ที่สังเกตได้คืออะไร?
 
 มีข้อเสียของ Multitasking System ที่สังเกตได้หรือไม่?
+
+
+
+---
+วีดิโอทดลอง LED Single Task
+---
+
+
+
+---
+วีดิโอทดลอง LED Multitask
+---
+
