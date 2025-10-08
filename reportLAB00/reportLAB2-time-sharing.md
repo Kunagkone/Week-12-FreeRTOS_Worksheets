@@ -19,9 +19,10 @@ https://github.com/user-attachments/assets/f1361f4a-98d2-4664-be4f-6356a6372b00
    
 ตอบ ระบบจะเกิด context switching บ่อยเกินจำเป็นCPU ใช้เวลา “สลับ task” มากกว่า ประสิทธิภาพโดยรวมลดลง
 
-3. ปัญหาอะไรที่เกิดขึ้นเมื่อ time slice ยาวเกินไป?
+3. Context switching overhead คิดเป็นกี่เปอร์เซ็นต์ของเวลาทั้งหมด?
+
 ตอบ
-4. Context switching overhead คิดเป็นกี่เปอร์เซ็นต์ของเวลาทั้งหมด?
-ตอบ
-5. งานไหนที่ได้รับผลกระทบมากที่สุดจากการ time-sharing?
+
+4. งานไหนที่ได้รับผลกระทบมากที่สุดจากการ time-sharing?
+
 ตอบ
