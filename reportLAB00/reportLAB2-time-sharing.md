@@ -1,4 +1,6 @@
-My_vedio_LAB2
+My_vedio_LAB00-02
+--
+https://github.com/user-attachments/assets/f1361f4a-98d2-4664-be4f-6356a6372b00
 
 
 
